@@ -1,0 +1,6 @@
+langchain==0.2.13
+langchain_ollama==0.1.1
+pinecone==5.0.1
+sentence_transformers==3.0.1
+streamlit==1.37.0
+streamlit_chat==0.1.1
