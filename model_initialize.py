@@ -5,7 +5,7 @@ from pinecone import Pinecone
 
 
 #   Pinecone VectorDB connection initialization
-pc = Pinecone(api_key="fff4e04f-76f9-4e1e-bb15-db36d7379fdb")
+pc = Pinecone(api_key="abcdefghijklmnopqrstuvwxyz-12345678910")    #  A dummy api_key
 index_name = "ramayana-embeddings"
 index = pc.Index(index_name)
 
